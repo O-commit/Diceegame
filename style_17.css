@@ -1,0 +1,11 @@
+*{
+    background-color:rgb(71, 205, 71);
+}
+.player{
+    display:inline-block;
+    text-align:center;
+}
+.container{
+    text-align:center;
+    margin:auto;
+}
